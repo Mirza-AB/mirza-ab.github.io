@@ -11,6 +11,7 @@ function App() {
     <div className="min-h-screen bg-dark">
       <Navbar />
       <main>
+          <Projects />
       </main>
       <Footer />
     </div>
