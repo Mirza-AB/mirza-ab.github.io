@@ -13,7 +13,7 @@ export default function Contact() {
 
         <div className="flex flex-wrap justify-center gap-6 mb-12">
           <a
-            href="mailto:abmirza371@gmail.com"
+            href="mailto:adnan.19acc@gmail.com"
             className="flex items-center gap-3 bg-dark-200 px-6 py-4 rounded-lg border border-dark-300 hover:border-primary/50 transition-colors"
           >
             <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -21,7 +21,7 @@ export default function Contact() {
             </svg>
             <div className="text-left">
               <p className="text-xs text-gray-500">Email</p>
-              <p className="text-sm text-white">abmirza371@gmail.com</p>
+              <p className="text-sm text-white">adnan.19acc@gmail.com</p>
             </div>
           </a>
 
@@ -57,7 +57,7 @@ export default function Contact() {
         </div>
 
         <a
-          href="mailto:abmirza371@gmail.com"
+          href="mailto:adnan.19acc@gmail.com"
           className="inline-block px-8 py-3 bg-primary hover:bg-primary-light text-white rounded-lg font-medium transition-colors"
         >
           Say Hello 👋
